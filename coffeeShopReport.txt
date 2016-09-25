@@ -1,0 +1,14 @@
+CAPPUCCINO: Sold: 2, Expenses: $3.12, Revenue: $7.00, Profit: $3.88
+ESPRESSO: Sold: 2, Expenses: $1.90, Revenue: $3.00, Profit: $1.10
+LATTE: Sold: 2, Expenses: $3.34, Revenue: $7.50, Profit: $4.16
+BLACK TEA: Sold: 2, Expenses: $0.70, Revenue: $3.58, Profit: $2.88
+HERBAL TEA: Sold: 2, Expenses: $0.70, Revenue: $4.18, Profit: $3.48
+MACCHIATO: Sold: 2, Expenses: $2.90, Revenue: $5.50, Profit: $2.60
+AMERICANO: Sold: 2, Expenses: $1.40, Revenue: $5.30, Profit: $3.90
+COLD PRESS: Sold: 2, Expenses: $1.00, Revenue: $5.00, Profit: $4.00
+HOT CHOCOLATE: Sold: 2, Expenses: $1.30, Revenue: $4.50, Profit: $3.20
+COFFEE: Sold: 2, Expenses: $0.50, Revenue: $3.30, Profit: $2.80
+CHAI TEA: Sold: 2, Expenses: $2.46, Revenue: $7.00, Profit: $4.54
+MOCHA: Sold: 2, Expenses: $2.90, Revenue: $7.40, Profit: $4.50
+
+TOTAL EXPENSES: $22.22 TOTAL REVENUE: $63.26 TOTAL PROFIT: $41.04
